@@ -5,19 +5,13 @@
 
 - 🔭 正在做：AI 创作平台
 - 🌱 研究方向：AIGC / Product / Gaming
-- 📫 联系我：neo@example.com
 
 ### 🚀 Featured Projects
 - 🧪 **Future Lab** — AI 创作实验室
 - 🎮 **Vibe Gaming** — 游戏化 AI 产品
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lizhijun&show_icons=true)
-
-
-
-![AI](https://img.shields.io/badge/AI-Product-blue)
-![Game](https://img.shields.io/badge/Game-Design-green)
+![pixshop.app](https://pixshop.app/)
+![lovtrip.app](https://lovtrip.app/)
 
 ## 🇨🇳 中文 | 🇺🇸 English
 
