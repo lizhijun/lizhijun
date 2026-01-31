@@ -13,8 +13,6 @@
 ![pixshop.app](https://pixshop.app/)
 ![lovtrip.app](https://lovtrip.app/)
 
-## 🇨🇳 中文 | 🇺🇸 English
-
 
 <!--
 **lizhijun/lizhijun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
