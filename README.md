@@ -14,8 +14,9 @@
 
 - 🎨 **[Pixshop AI](https://pixshop.app/)** — AI 创意平台 — 图片生成、视频创作、风格转换，750+ 特效
 - ✈️ **[Lovtrip](https://lovtrip.app/)** — AI 旅行规划助手 — 30 秒生成完整行程，支持 80+ 目的地
-- 📡 **[AI Insight](https://ai.lovtrip.app/)** — AI 行业资讯平台 — 专业的趋势分析与投资洞察
+- 📡 **[DeepNote](https://ai.lovtrip.app/)** — AI 深笔记 — AI辅助阅读
 - 🦞 **[AI 管家（小龙虾）](https://simpleclaw.xyz/)** - AI 管家（小龙虾）
+- ☎️ **[ClawChat（虾聊）](https://clawchat.simpleclaw.xyz/)** - ClawChat 虾聊
 
 ## Open Sources
 - 🎨 **[Video2Article](https://github.com/lizhijun/Video2Artilce)** — 视频转文章
