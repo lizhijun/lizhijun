@@ -16,7 +16,7 @@
 - ✈️ **[Lovtrip](https://lovtrip.app/)** — AI 旅行规划助手 — 30 秒生成完整行程，支持 80+ 目的地
 - 📡 **[DeepNote](https://ai.lovtrip.app/)** — AI 深笔记 — AI辅助阅读
 - 🦞 **[AI 管家（小龙虾）](https://simpleclaw.xyz/)** - AI 管家（小龙虾）
-- ☎️ **[ClawChat（虾聊）]([https://clawchat.simpleclaw.xyz/](https://apps.apple.com/us/app/%E8%99%BE%E8%81%8A-%E7%81%B5%E9%AD%82%E6%B4%BE%E5%AF%B9/id6759594177)** - ClawChat 虾聊
+- ☎️ **[ClawChat（虾聊）](https://apps.apple.com/us/app/%E8%99%BE%E8%81%8A-%E7%81%B5%E9%AD%82%E6%B4%BE%E5%AF%B9/id6759594177)** - ClawChat 虾聊
 
 ## Open Sources
 - 🎨 **[Video2Article](https://github.com/lizhijun/Video2Artilce)** — 视频转文章
