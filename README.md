@@ -11,7 +11,7 @@
 > 专注 AI-native 产品，用 AI 重新定义创作、旅行与生活。
 
 ## Current Projects
-
+- 🎨 **[Picva](https://picva.app/)** - GPT Image 2 AI 图片生成与编辑工具
 - 🎨 **[Pixshop AI](https://pixshop.app/)** — AI 创意平台 — 图片生成、视频创作、风格转换，750+ 特效
 - ✈️ **[Lovtrip](https://lovtrip.app/)** — AI 旅行规划助手 — 30 秒生成完整行程，支持 80+ 目的地
 - 📡 **[DeepNote](https://ai.lovtrip.app/)** — AI 深笔记 — AI辅助阅读
